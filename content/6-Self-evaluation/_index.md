@@ -29,7 +29,6 @@ I actively participated in building a **Full-Stack Serverless Architecture** (Ja
 | 9 | **Professional Conduct** | Maintained respectful, polite, and open communication with mentors and peers | ✅ | ☐ | ☐ |
 | 10 | **Problem-Solving Ability** | Resolved Lambda cold-start latency, managed AWS Budget alerts, and optimized S3 bandwidth | ✅ | ☐ | ☐ |
 | 11 | **Project Contribution** | Successfully engineered and deployed the complete GearStore E-Commerce Cloud platform | ✅ | ☐ | ☐ |
-| 12 | **Overall Evaluation** | Overall self-evaluation of internship performance: Outstanding Completion | ✅ | ☐ | ☐ |
 
 ---
 

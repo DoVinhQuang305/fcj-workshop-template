@@ -29,7 +29,6 @@ Tôi đã trực tiếp tham gia xây dựng hệ thống **Full-Stack Serverles
 | 9 | **Ứng xử chuyên nghiệp** | Tôn trọng quy định làm việc, giao tiếp lịch sự, cởi mở với Mentor và đồng nghiệp | ✅ | ☐ | ☐ |
 | 10 | **Tư duy giải quyết vấn đề** | Xử lý triệt để bài toán Cold Start, quản lý chi phí AWS Budgets và tối ưu hóa băng thông S3 | ✅ | ☐ | ☐ |
 | 11 | **Đóng góp vào dự án** | Xây dựng thành công demo dự án GearStore E-Commerce hoàn chỉnh chạy trên cloud AWS | ✅ | ☐ | ☐ |
-| 12 | **Đánh giá tổng thể** | Tự đánh giá hoàn thành xuất sắc kỳ thực tập tốt nghiệp | ✅ | ☐ | ☐ |
 
 ---
 
