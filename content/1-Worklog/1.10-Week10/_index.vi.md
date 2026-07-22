@@ -1,59 +1,29 @@
 ---
 title: "Worklog Tuần 10"
-date: 2024-01-01
-weight: 2
+date: 2026-07-20
+weight: 10
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
+# Worklog Tuần 10 (06/07/2026 – 12/07/2026)
 
-### Mục tiêu tuần 10:
+#### 1. Mục tiêu công việc
+- Tích hợp aws-serverless-java-container-springboot3
+- Viết StreamLambdaHandler chuyển tiếp HttpApiV2 request
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+#### 2. Chi tiết công việc thực hiện trong tuần
+Đóng gói ứng dụng Spring Boot theo chuẩn Serverless với thư viện aws-serverless-java-container-springboot3. Biên dịch file .jar và triển khai ứng dụng Backend lên dịch vụ AWS Lambda (gearstore). Cấu hình IAM Role cho Lambda để cấp quyền truy cập an toàn, tối giản tới DynamoDB và S3 Bucket.
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+#### 3. Bảng phân công & Tiến độ chi tiết
+| Thứ | Nội dung công việc thực hiện | Trạng thái | Nguồn tài liệu |
+| :---: | :--- | :---: | :--- |
+| **Thứ 2** | Tích hợp aws-serverless-java-container-springboot3 | Complete | AWS Documentation |
+| **Thứ 3** | Viết StreamLambdaHandler chuyển tiếp HttpApiV2 request | Complete | AWS Documentation |
+| **Thứ 4** | Biên dịch Uber-JAR với maven-shade-plugin | Complete | Project Source Code |
+| **Thứ 5** | Tạo AWS Lambda Function & gán IAM Execution Role | Complete | Project Source Code |
+| **Thứ 6** | Kiểm thử, rà soát tính năng & tối ưu hóa | Complete | Self-testing / Postman |
 
-
-### Kết quả đạt được tuần 10:
-
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+#### 4. Kết quả đạt được
+- **Hoàn thành**: Tích hợp aws-serverless-java-container-springboot3, Viết StreamLambdaHandler chuyển tiếp HttpApiV2 request, Biên dịch Uber-JAR với maven-shade-plugin, Tạo AWS Lambda Function & gán IAM Execution Role.
+- **Kỹ năng tích lũy**: Nắm vững quy trình làm việc trên AWS Cloud, triển khai thành công các thành phần của hệ thống GearStore.

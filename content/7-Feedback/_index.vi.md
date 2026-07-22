@@ -1,44 +1,48 @@
 ---
 title: "Chia sẻ, đóng góp ý kiến"
-date: 2024-01-01
+date: 2026-07-20
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
+# Chia sẻ Trải nghiệm & Đóng góp Ý kiến Chương trình FCJ
 
-### Đánh giá chung
+Nhìn lại hành trình 12 tuần tham gia **Chương trình Đào tạo Thực tập sinh First Cloud AI Journey (FCJ) - AWS Cloud**, tôi xin gửi lời cảm ơn chân thành đến Ban tổ chức, các anh chị Mentors và Admin đã luôn đồng hành, hỗ trợ tôi hoàn thành dự án **GearStore E-Commerce Platform**. Dưới đây là những chia sẻ và đóng góp ý kiến của cá nhân tôi:
 
-**1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCAJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+---
 
-**2. Sự hỗ trợ của mentor / team admin**  
-Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
+### 1. Đánh giá Tổng quan Trải nghiệm Thực tập
 
-**3. Sự phù hợp giữa công việc và chuyên ngành học**  
-Công việc mình được giao phù hợp với kiến thức mình đã học ở trường, đồng thời mở rộng thêm những mảng mới mà mình chưa từng được tiếp cận. Nhờ vậy, mình vừa củng cố kiến thức nền tảng, vừa học thêm kỹ năng thực tế.
+1. **Môi trường Học tập & Làm việc**:
+   - Môi trường tại FCJ cực kỳ cởi mở, chuyên nghiệp và truyền cảm hứng mạnh mẽ. Các thành viên trong nhóm luôn sẵn sàng hỗ trợ, giải đáp thắc mắc kỹ thuật kể cả ngoài giờ làm việc.
+   - Cơ sở vật chất và tài liệu hướng dẫn (Cloud Journey AWS Study Group) rất trực quan, khoa học, giúp tôi nhanh chóng nắm bắt các kiến thức từ cơ bản đến nâng cao.
 
-**4. Cơ hội học hỏi & phát triển kỹ năng**  
-Trong quá trình thực tập, mình học được nhiều kỹ năng mới như sử dụng công cụ quản lý dự án, kỹ năng làm việc nhóm, và cả cách giao tiếp chuyên nghiệp trong môi trường công ty. Mentor cũng chia sẻ nhiều kinh nghiệm thực tế giúp mình định hướng tốt hơn cho sự nghiệp.
+2. **Sự hỗ trợ từ Mentors & Team Admin**:
+   - Các anh chị Mentor có trình độ chuyên môn cao, hướng dẫn tận tình theo phương pháp "gợi mở bài toán và để sinh viên tự tìm giải pháp" thay vì đưa sẵn đáp án. Điều này giúp tôi rèn luyện tư duy tự nghiên cứu độc lập.
+   - Team Admin luôn hỗ trợ kịp thời các thủ tục hành chính, cung cấp tài khoản AWS và tạo mọi điều kiện tốt nhất cho thực tập sinh.
 
-**5. Văn hóa & tinh thần đồng đội**  
-Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
+3. **Sự phù hợp với Chuyên ngành**:
+   - Các nội dung được giao liên quan trực tiếp đến định hướng Cloud Engineer / Backend Developer. Việc áp dụng Java 21, Spring Boot 3, AWS Lambda và DynamoDB giúp tôi lấp đầy khoảng cách giữa lý thuyết trên trường và thực tế doanh nghiệp.
 
-**6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về thời gian linh hoạt khi cần thiết. Ngoài ra, việc được tham gia các buổi đào tạo nội bộ là một điểm cộng lớn.
+4. **Cơ hội Phát triển Kỹ năng**:
+   - Bên cạnh kỹ năng chuyên môn về AWS Cloud, tôi đã học hỏi được cách quản lý mã nguồn chuyên nghiệp với Git/GitHub, tư duy thiết kế NoSQL database, quy trình triển khai CI/CD tự động và kỹ năng viết tài liệu kỹ thuật.
 
+5. **Văn hóa & Tinh thần Đồng đội**:
+   - Văn hóa chia sẻ (Sharing Culture) tại FCJ rất tuyệt vời. Mọi người tôn trọng ý kiến cá nhân, cùng nhau thảo luận để tìm ra giải pháp tối ưu nhất cho từng bài lab.
 
-### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+---
 
+### 2. Các Phản hồi & Đề xuất Cải tiến
 
-### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+- **Điều tôi hài lòng nhất**: Được tiếp cận với hạ tầng Cloud AWS thực tế, trực tiếp triển khai kiến trúc Serverless Cloud-Native và nhận được sự hướng dẫn tận tâm từ các anh chị Mentor.
+- **Đề xuất cải thiện cho các khóa sau**:
+  - Có thể bổ sung thêm các buổi Workshop chuyên đề về **AWS CDK / IaC** hoặc **AI/ML on AWS (Amazon Bedrock)** để các bạn thực tập sinh khóa sau tiếp cận sớm với công nghệ AI Generative.
+  - Tổ chức thêm một số buổi giao lưu nhóm (Team Building / Hackathon nhỏ) để tăng cường kết nối giữa các nhóm thực tập sinh.
+- **Lời khuyên cho bạn bè**: Nếu được hỏi, tôi chắc chắn 100% sẽ giới thiệu bạn bè tham gia chương trình thực tập FCJ vì đây là môi trường tuyệt vời nhất để trưởng thành về cả kỹ năng kỹ thuật và tư duy Cloud.
+
+---
+
+### 3. Đóng góp Khác
+
+Tôi rất mong muốn có cơ hội tiếp tục hợp tác, đồng hành cùng cộng đồng **AWS Study Group / FCJ** trong các chương trình và dự án nâng cao tiếp theo trong tương lai!

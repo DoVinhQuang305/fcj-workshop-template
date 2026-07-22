@@ -1,40 +1,40 @@
 ---
 title: "Tự đánh giá"
-date: 2024-01-01
+date: 2026-07-20
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+# Báo cáo Tự đánh giá Kết quả Thực tập Tốt nghiệp
 
-Trong suốt thời gian thực tập tại **[Tên công ty/tổ chức]** từ **[ngày bắt đầu]** đến **[ngày kết thúc]**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
-Tôi đã tham gia **[mô tả ngắn gọn dự án hoặc công việc chính]**, qua đó cải thiện kỹ năng **[liệt kê kỹ năng: lập trình, phân tích, viết báo cáo, giao tiếp…]**.  
+Trong suốt 12 tuần thực tập tại **Chương trình Đào tạo Thực tập sinh First Cloud AI Journey (FCJ) - AWS Cloud** từ **04/05/2026** đến **26/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng trực tiếp các kiến thức Điện toán đám mây vào dự án thực tế **GearStore E-Commerce Platform**.
 
-Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
+Tôi đã trực tiếp tham gia xây dựng hệ thống **Full-Stack Serverless** (Java 21 / Spring Boot 3, AWS Lambda, API Gateway, Amazon DynamoDB, S3, Next.js & AWS Amplify). Qua đó, tôi đã nâng cao rõ rệt các kỹ năng lập trình backend, thiết kế NoSQL database, quản trị hạ tầng Cloud và tác phong làm việc chuyên nghiệp.
 
-Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
+---
 
+### Bảng Tự Đánh Giá Chi Tiết
 
-| STT | Tiêu chí                            | Mô tả                                                                                            | Tốt | Khá | Trung bình |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | --- | --- | ---------- |
-| 1   | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ✅   | ☐   | ☐          |
-| 2   | **Khả năng học hỏi**                | Tiếp thu kiến thức mới, học hỏi nhanh                                                            | ☐   | ✅   | ☐          |
-| 3   | **Chủ động**                        | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn                                                  | ✅   | ☐   | ☐          |
-| 4   | **Tinh thần trách nhiệm**           | Hoàn thành công việc đúng hạn, đảm bảo chất lượng                                                | ✅   | ☐   | ☐          |
-| 5   | **Kỷ luật**                         | Tuân thủ giờ giấc, nội quy, quy trình làm việc                                                   | ☐   | ☐   | ✅          |
-| 6   | **Tính cầu tiến**                   | Sẵn sàng nhận feedback và cải thiện bản thân                                                     | ☐   | ✅   | ☐          |
-| 7   | **Giao tiếp**                       | Trình bày ý tưởng, báo cáo công việc rõ ràng                                                     | ☐   | ✅   | ☐          |
-| 8   | **Hợp tác nhóm**                    | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm                                                 | ✅   | ☐   | ☐          |
-| 9   | **Ứng xử chuyên nghiệp**            | Tôn trọng đồng nghiệp, đối tác, môi trường làm việc                                              | ✅   | ☐   | ☐          |
-| 10  | **Tư duy giải quyết vấn đề**        | Nhận diện vấn đề, đề xuất giải pháp, sáng tạo                                                    | ☐   | ✅   | ☐          |
-| 11  | **Đóng góp vào dự án/tổ chức**      | Hiệu quả công việc, sáng kiến cải tiến, ghi nhận từ team                                         | ✅   | ☐   | ☐          |
-| 12  | **Tổng thể**                        | Đánh giá chung về toàn bộ quá trình thực tập                                                     | ✅   | ☐   | ☐          |
+| STT | Tiêu chí đánh giá | Mô tả thực tế quá trình thực tập | Tốt | Khá | Trung bình |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| 1 | **Kiến thức & Kỹ năng chuyên môn** | Nắm vững kiến thức dịch vụ AWS (VPC, IAM, EC2, Lambda, DynamoDB, S3, API Gateway, Amplify), áp dụng chuẩn Spring Boot 3 & Java 21 | ✅ | ☐ | ☐ |
+| 2 | **Khả năng học hỏi** | Tiếp thu nhanh công nghệ Serverless Container, AWS SDK v2 và cách tối ưu cold-start Lambda | ✅ | ☐ | ☐ |
+| 3 | **Tính chủ động trong công việc** | Tự tìm hiểu tài liệu AWS, nghiên cứu giải pháp NoSQL Workbench và tự đề xuất phương án seed data ngầm | ✅ | ☐ | ☐ |
+| 4 | **Tinh thần trách nhiệm** | Hoàn thành đúng hạn 100% các công việc được giao trong 12 tuần thực tập, đảm bảo hệ thống vận hành ổn định | ✅ | ☐ | ☐ |
+| 5 | **Kỷ luật & Tác phong** | Tuân thủ nghiêm túc thời gian biểu, quy trình commit code Git/GitHub và quy định an toàn bảo mật tài khoản Cloud | ✅ | ☐ | ☐ |
+| 6 | **Tính cầu tiến & Lắng nghe** | Lắng nghe feedback từ Mentor và rà soát sửa lỗi UTF-8 font chữ tiếng Việt, CORS policy | ✅ | ☐ | ☐ |
+| 7 | **Kỹ năng trình bày & Báo cáo** | Lập tài liệu báo cáo đầy đủ, vẽ sơ đồ kiến trúc hệ thống rõ ràng trên Draw.io | ✅ | ☐ | ☐ |
+| 8 | **Hợp tác & Làm việc nhóm** | Tích cực trao đổi với các thành viên trong nhóm FCJ, chia sẻ kinh nghiệm sử dụng AWS CLI | ✅ | ☐ | ☐ |
+| 9 | **Ứng xử chuyên nghiệp** | Tôn trọng quy định làm việc, giao tiếp lịch sự, cởi mở với Mentor và đồng nghiệp | ✅ | ☐ | ☐ |
+| 10 | **Tư duy giải quyết vấn đề** | Xử lý triệt để bài toán Cold Start, quản lý chi phí AWS Budgets và tối ưu hóa băng thông S3 | ✅ | ☐ | ☐ |
+| 11 | **Đóng góp vào dự án** | Xây dựng thành công demo dự án GearStore E-Commerce hoàn chỉnh chạy trên cloud AWS | ✅ | ☐ | ☐ |
+| 12 | **Đánh giá tổng thể** | Tự đánh giá hoàn thành xuất sắc kỳ thực tập tốt nghiệp | ✅ | ☐ | ☐ |
 
-### Cần cải thiện
+---
 
-* Nâng cao tính kỹ luật, chấp hành nghiêm chỉnh nội quy của công ty hoặc bất kỳ trong một tổ chức nào
-* Cải thiện trong cách tư duy giải quyết vấn đề
-* Học cách giao tiếp tốt hơn trong giao tiếp hằng ngày và trong công việc, xử lý tình huống
+### Các Điểm Cần Cải Thiện & Hướng Phát Triển
+
+- **Nâng cao kiến trúc DevOps/IaC**: Tiếp tục nghiên cứu chuyên sâu công cụ **AWS CDK** hoặc **Terraform** để tự động hóa hạ tầng thay cho thao tác thủ công.
+- **Tối ưu hóa bảo mật nâng cao**: Tìm hiểu thêm giải pháp mã hóa dữ liệu KMS và tích hợp AWS WAF bảo vệ API Gateway.
+- **Trau dồi ngoại ngữ & Kỹ năng giao tiếp**: Tiếp tục nâng cao vốn tiếng Anh chuyên ngành Cloud/DevOps để chuẩn bị cho các chứng chỉ AWS Associate/Professional.

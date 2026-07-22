@@ -1,39 +1,40 @@
 ---
 title: "Self-Assessment"
-date: 2024-01-01
+date: 2026-07-20
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+# Internship Self-Assessment Report
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+During my 12-week internship with the **First Cloud AI Journey (FCJ) - AWS Cloud Program** from **04/05/2026** to **26/07/2026**, I gained valuable experience applying cloud computing concepts directly to a production-ready application: **GearStore E-Commerce Platform**.
 
-In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
+I actively participated in building a **Full-Stack Serverless Architecture** (Java 21 / Spring Boot 3, AWS Lambda, API Gateway, Amazon DynamoDB, S3, Next.js & AWS Amplify). This experience significantly enhanced my backend development, NoSQL modeling, cloud infrastructure, and professional workplace skills.
 
-To objectively reflect on my internship period, I would like to evaluate myself based on the following criteria:
+---
 
-| No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
-| 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ☐    | ✅    | ☐       |
-| 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
-| 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
-| 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ☐    | ☐    | ✅       |
-| 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              | ☐    | ✅    | ☐       |
-| 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ☐    | ✅    | ☐       |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅    | ☐    | ☐       |
-| 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅    | ☐    | ☐       |
-| 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
-| 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ✅    | ☐    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+### Detailed Self-Assessment Matrix
 
-### Needs Improvement
+| No. | Assessment Criteria | Practical Achievements & Reflection | Good | Fair | Average |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| 1 | **Professional Knowledge & Skills** | Mastered AWS services (VPC, IAM, EC2, Lambda, DynamoDB, S3, API Gateway, Amplify) and applied Java 21 & Spring Boot 3 standards | ✅ | ☐ | ☐ |
+| 2 | **Ability to Learn** | Rapidly absorbed Serverless Container concepts, AWS SDK v2, and Lambda cold-start optimizations | ✅ | ☐ | ☐ |
+| 3 | **Proactiveness** | Independently researched AWS docs, NoSQL Workbench, and designed an async database seeding pipeline | ✅ | ☐ | ☐ |
+| 4 | **Sense of Responsibility** | Delivered 100% of weekly objectives on schedule across 12 weeks, ensuring system stability | ✅ | ☐ | ☐ |
+| 5 | **Discipline & Ethics** | Strictly adhered to project timelines, Git commit conventions, and AWS security best practices | ✅ | ☐ | ☐ |
+| 6 | **Progressive Mindset** | Actively incorporated mentor feedback to resolve UTF-8 encoding issues and CORS configuration | ✅ | ☐ | ☐ |
+| 7 | **Documentation & Reporting** | Authored comprehensive technical reports and clear Draw.io system architecture diagrams | ✅ | ☐ | ☐ |
+| 8 | **Teamwork & Collaboration** | Actively shared AWS CLI tips and collaborated effectively with FCJ cohort members | ✅ | ☐ | ☐ |
+| 9 | **Professional Conduct** | Maintained respectful, polite, and open communication with mentors and peers | ✅ | ☐ | ☐ |
+| 10 | **Problem-Solving Ability** | Resolved Lambda cold-start latency, managed AWS Budget alerts, and optimized S3 bandwidth | ✅ | ☐ | ☐ |
+| 11 | **Project Contribution** | Successfully engineered and deployed the complete GearStore E-Commerce Cloud platform | ✅ | ☐ | ☐ |
+| 12 | **Overall Evaluation** | Overall self-evaluation of internship performance: Outstanding Completion | ✅ | ☐ | ☐ |
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
-* Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+---
+
+### Areas for Future Growth & Improvement
+
+- **Infrastructure as Code (IaC)**: Deepen knowledge in **AWS CDK** and **Terraform** for declarative cloud provisioning.
+- **Advanced Security**: Explore AWS KMS encryption at rest/in transit and integrate AWS WAF rules for API Gateway protection.
+- **Professional Certifications**: Continue refining cloud architecture expertise to pursue AWS Solutions Architect Associate / Professional credentials.
