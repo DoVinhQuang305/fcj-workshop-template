@@ -20,14 +20,14 @@ I actively participated in building a **Full-Stack Serverless Architecture** (Ja
 | :---: | :--- | :--- | :---: | :---: | :---: |
 | 1 | **Professional Knowledge & Skills** | Mastered AWS services (VPC, IAM, EC2, Lambda, DynamoDB, S3, API Gateway, Amplify) and applied Java 21 & Spring Boot 3 standards | ✅ | ☐ | ☐ |
 | 2 | **Ability to Learn** | Rapidly absorbed Serverless Container concepts, AWS SDK v2, and Lambda cold-start optimizations | ✅ | ☐ | ☐ |
-| 3 | **Proactiveness** | Independently researched AWS docs, NoSQL Workbench, and designed an async database seeding pipeline | ✅ | ☐ | ☐ |
+| 3 | **Proactiveness** | Independently researched AWS docs, NoSQL Workbench, and designed an async database seeding pipeline | ☐ | ✅ | ☐ |
 | 4 | **Sense of Responsibility** | Delivered 100% of weekly objectives on schedule across 12 weeks, ensuring system stability | ✅ | ☐ | ☐ |
-| 5 | **Discipline & Ethics** | Strictly adhered to project timelines, Git commit conventions, and AWS security best practices | ✅ | ☐ | ☐ |
+| 5 | **Discipline & Ethics** | Strictly adhered to project timelines, Git commit conventions, and AWS security best practices | ☐ | ✅ | ☐ |
 | 6 | **Progressive Mindset** | Actively incorporated mentor feedback to resolve UTF-8 encoding issues and CORS configuration | ✅ | ☐ | ☐ |
-| 7 | **Documentation & Reporting** | Authored comprehensive technical reports and clear Draw.io system architecture diagrams | ✅ | ☐ | ☐ |
+| 7 | **Documentation & Reporting** | Authored comprehensive technical reports and clear Draw.io system architecture diagrams | ☐ | ✅ | ☐ |
 | 8 | **Teamwork & Collaboration** | Actively shared AWS CLI tips and collaborated effectively with FCJ cohort members | ✅ | ☐ | ☐ |
 | 9 | **Professional Conduct** | Maintained respectful, polite, and open communication with mentors and peers | ✅ | ☐ | ☐ |
-| 10 | **Problem-Solving Ability** | Resolved Lambda cold-start latency, managed AWS Budget alerts, and optimized S3 bandwidth | ✅ | ☐ | ☐ |
+| 10 | **Problem-Solving Ability** | Resolved Lambda cold-start latency, managed AWS Budget alerts, and optimized S3 bandwidth | ☐ | ✅ | ☐ |
 | 11 | **Project Contribution** | Successfully engineered and deployed the complete GearStore E-Commerce Cloud platform | ✅ | ☐ | ☐ |
 
 ---
