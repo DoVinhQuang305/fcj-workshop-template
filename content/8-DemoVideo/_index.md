@@ -15,8 +15,8 @@ Below is the demonstration video showcasing the **GearStore E-Commerce Platform*
 ### Interactive Demo Video
 
 <video width="100%" height="auto" controls preload="metadata" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-top: 15px; margin-bottom: 20px;">
-   <source src="{{ "videos/video-demo.mp4" | relURL }}" type="video/mp4">
-   Your browser does not support the HTML5 video tag. You can download the video file directly: <a href="{{ "videos/video-demo.mp4" | relURL }}">Download Demo Video (.mp4)</a>.
+   <source src="/fcj-workshop-template/videos/video-demo.mp4" type="video/mp4">
+   Your browser does not support the HTML5 video tag. You can download the video file directly: <a href="/fcj-workshop-template/videos/video-demo.mp4">Download Demo Video (.mp4)</a>.
 </video>
 
 ---
