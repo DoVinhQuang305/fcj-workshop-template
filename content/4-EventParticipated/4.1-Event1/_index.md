@@ -55,4 +55,4 @@ The speaker introduced a structured 4-pillar input framework prior to querying A
 
 #### Event Photo
 
-![Student Do Vinh Quang attending AWS event](/images/4-EventParticipated/event1_quang.jpg "Student Do Vinh Quang attending the AWS Workshop event")
+![Student Do Vinh Quang attending AWS event](/fcj-workshop-template/images/4-EventParticipated/event1_quang.jpg "Student Do Vinh Quang attending the AWS Workshop event")

@@ -37,7 +37,7 @@ gearstore-backend/src/main/java/com/gearstore/backend/
 
 #### System Architecture Diagram
 
-![System Architecture Diagram](/images/5-Workshop/5.1-Workshop-overview/architecture-diagram.png)
+![System Architecture Diagram](/fcj-workshop-template/images/5-Workshop/5.1-Workshop-overview/architecture-diagram.png)
 
 #### AWS Request Execution Flow
 

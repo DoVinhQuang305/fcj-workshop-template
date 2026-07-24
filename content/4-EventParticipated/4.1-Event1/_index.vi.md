@@ -55,4 +55,4 @@ Diễn giả hướng dẫn cấu trúc thông tin 4 lề trước khi gửi yê
 
 #### Hình ảnh tham gia sự kiện
 
-![Sinh viên Đỗ Vinh Quang tham dự sự kiện AWS](/images/4-EventParticipated/event1_quang.jpg "Hình ảnh sinh viên Đỗ Vinh Quang cùng các bạn tham dự workshop AWS")
+![Sinh viên Đỗ Vinh Quang tham dự sự kiện AWS](/fcj-workshop-template/images/4-EventParticipated/event1_quang.jpg "Hình ảnh sinh viên Đỗ Vinh Quang cùng các bạn tham dự workshop AWS")

@@ -37,7 +37,7 @@ gearstore-backend/src/main/java/com/gearstore/backend/
 
 #### Sơ đồ Kiến trúc Hệ thống (System Architecture Diagram)
 
-![Sơ đồ Kiến trúc Systems Diagram](/images/5-Workshop/5.1-Workshop-overview/architecture-diagram.png)
+![Sơ đồ Kiến trúc Systems Diagram](/fcj-workshop-template/images/5-Workshop/5.1-Workshop-overview/architecture-diagram.png)
 
 #### Luồng xử lý Request trên AWS
 
